@@ -1,0 +1,13 @@
+Step 1:-Start.
+Step 2:-Take the input from user for number of values in series and Save it in a veriable.
+Step 3:-initilize first variable as 0 , and second variable as 1.
+Step 3:-If the user enters any non integer value.Then ask user to enter correct value.
+step 4:-if user enters 1 then display 0 as and output as first element of fibonachi series. 
+step 5:-if user enters a positive integer then enter the loop .
+        and display first number and add first and second veriable and store value in 
+        temp variable. 
+step 6:-Then we need to update the value of first variable as second and second variable as
+        temp variable value.
+Step 7:-And the series will get in output.
+Step 8:-Loop will end.
+Step 9:-End of the program.

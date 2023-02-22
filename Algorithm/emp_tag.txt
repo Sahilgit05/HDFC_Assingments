@@ -1,0 +1,11 @@
+Step 1:-Start.
+Step 2:-Take the input from user and Save it in a veriable.
+Step 3:-if the employee experience is greater than 0 or less than or equal to 3 then 
+        assign blue tag to the employee.
+step 4:-if the employee experience is greater than 3 or less than or equal to 5 then 
+        assign Grey tag to the employee. 
+step 5:-if the employee experience is greater than 5 or less than or equal to 10 then 
+        assign Yellow tag to the employee.
+step 6:-At last is employee experience is greater than 10years then assign 
+        red tag to the employee.
+Step 7:-End of the program.
